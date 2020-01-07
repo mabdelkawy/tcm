@@ -1,4 +1,4 @@
 # tcm
 ## Traffic Control Manager for Linux
 
-### Warning: Loops in Main Core area may conflict with Prodcast and Network IP Addresses
+### Warning: Loops in Main Core area may conflict with Broadcast and Network IP Addresses
